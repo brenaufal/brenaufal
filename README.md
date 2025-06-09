@@ -21,8 +21,8 @@ I'm a passionate **Information Technology student** at **Universitas Brawijaya**
 
 Here are some of the projects I've worked on:
 
-### 🎨 **Portfolio Website** - Built using Vue.js, Nuxt.js, and Tailwind CSS
-![Portfolio](https://via.placeholder.com/150)
+### 🎨 **Portfolio Website** - Built using Figma
+![Portfolio]([https://via.placeholder.com/150](https://www.behance.net/gallery/227371935/Portofolio-2025-Brenayaka-Naufal-Abdillah))
 
 - Showcases my frontend skills.
 - Responsive design for various devices.
