@@ -20,9 +20,10 @@ I'm a passionate **Information Technology student** at **Universitas Brawijaya**
 ## 💻 Projects
 
 Here are some of the projects I've worked on:
-<div>
+
 🎨 **Portfolio Website** - Built using Figma
-![Portfolio]
+![Portfolio]/n
+<div>
 <a href="https://www.behance.net/gallery/227371935/Portofolio-2025-Brenayaka-Naufal-Abdillah" target="_blank">
 Behance.net</a>
 
