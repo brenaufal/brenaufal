@@ -20,17 +20,14 @@ I'm a passionate **Information Technology student** at **Universitas Brawijaya**
 ## 💻 Projects
 
 Here are some of the projects I've worked on:
-
-### 🎨 **Portfolio Website** - Built using Figma
+<div>
+  ### 🎨 **Portfolio Website** - Built using Figma
 ![Portfolio]([https://via.placeholder.com/150](https://www.behance.net/gallery/227371935/Portofolio-2025-Brenayaka-Naufal-Abdillah))
 
-- Showcases my frontend skills.
-- Responsive design for various devices.
+- Showcases all my project i've been made
+</div>
 
-### 🛒 **E-Commerce Platform** - Built with Laravel
-![E-Commerce](https://via.placeholder.com/150)
 
-- Full-featured online store with a complete backend using Laravel.
 
 ---
 
